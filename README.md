@@ -1,7 +1,7 @@
 # elephant_sort
 ## Description
 
-This program is a solution to a problem whose command is in the file instruction.pdf
+This program is a solution to a problem, whose command is in the file instruction.pdf
 
 ## Documentation
 
