@@ -9,12 +9,12 @@ Documentation created with the Sphinx tool. You can use documentation from the l
 ![image](https://user-images.githubusercontent.com/41323564/112475962-aee50e80-8d71-11eb-97d1-55f608f884a8.png)
 
 ## Files
-
+in building...
 ## Library
 
 numpy==1.19.3
 
 ## Quick start
-
+in building...
 ## Contact
 mikulski.michal2@gmail.com
