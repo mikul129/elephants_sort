@@ -1,4 +1,4 @@
-# elephant_sort
+# elephants_sort
 ## Description
 
 This program is a solution to a problem, whose command is in the file instruction.pdf
