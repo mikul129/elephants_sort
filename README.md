@@ -9,8 +9,15 @@ Documentation created with the Sphinx tool. You can use documentation from the l
 ![image](https://user-images.githubusercontent.com/41323564/112475962-aee50e80-8d71-11eb-97d1-55f608f884a8.png)
 
 ## Files
-in building...
-## Library
+
+dosc - folder with documentation files<br />
+sphinx - folder with files for generate documentation<br />
+test_data.py - folder with input and output test data<br />
+instruction.pdf - file with the original task command<br />
+main.py - file with the main functions of the program<br />
+unit_tests.py - aplication unit tests<br />
+
+## Libraries
 
 numpy==1.19.3
 
