@@ -27,5 +27,5 @@ def test_result(file):
 Unit tests process.
 """
 for x in range(1,5):
-    file = "test_data\slo"+str(x)
+    file = r"C:\Users\User\Desktop\elephants_sort\test_data\slo"+str(x)
     test_result(file)

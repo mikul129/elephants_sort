@@ -1,9 +1,9 @@
-zadanie python
+elephants_sort
 ==============
 
 .. toctree::
    :maxdepth: 4
 
-   conf
    main
+   quick_start
    unit_tests

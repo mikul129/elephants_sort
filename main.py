@@ -6,6 +6,7 @@ Main file, includes functions for alghoritms.
 
 import numpy as np
 import sys
+import os
 
 def p(bi,P,Y):
     """
@@ -101,7 +102,7 @@ def alghorithm(file):
     :param file: [str] input file
     :return: result [int] minimum from result methods
     """
-    with open(file) as f:
+    with open(file,"rb") as f:
         n = int(f.readline())
         M = f.readline()
         M = list(map(int, M.split()))
@@ -110,5 +111,5 @@ def alghorithm(file):
         Y = f.readline()
         Y = list(map(int, Y.split()))
     f.close()
-    result = result(n,P,Y,M)
-    return(result)
+    result_alg = result(n,P,Y,M)
+    return(result_alg)
